@@ -102,7 +102,7 @@ An unauthenticated attacker could exfiltrate patient medical records at will, le
 
 **Evidence:**
 
-![M1 — Initial Access & Retrieved Patient PDFs](evidence/M1-initial-access.png)
+![M1 — Initial Access & Retrieved Patient PDFs](M1-initial-access.png)
 *Figure 1: Unauthorised access to restricted area and retrieval of 3 confidential patient PDF lab reports.*
 
 ---
@@ -127,7 +127,7 @@ Password-based file protection provides **no real security** when weak passwords
 
 **Evidence:**
 
-![M2 — Decrypted PDF Files](evidence/M2-decrypted-files.png)
+![M2 — Decrypted PDF Files](M2-decrypted-files.png)
 *Figure 2: All 3 encrypted PDF files successfully cracked and opened using John the Ripper.*
 
 ---
@@ -159,7 +159,7 @@ This is a **catastrophic data exposure** involving:
 
 **Evidence:**
 
-![M3 — Critical Server Exposure](evidence/M3-critical-exposure.png)
+![M3 — Critical Server Exposure](M3-critical-exposure.png)
 *Figure 3: Exposure of hospital employee salaries and shareholder details.*
 
 ---
